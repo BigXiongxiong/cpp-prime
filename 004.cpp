@@ -5,9 +5,9 @@
  *        Author: Dezhu Cui
  *         Email: chinacuidezhu@gmail.com
  *          Blog: https://blog.ijs.me/
- *   Description: ---
+ *   Description: We wrote the output in one large statement. Rewrite the program to use a separate statement to print each operand.
  *        Create: 2017-05-12 15:37:12
-* Last Modified: 2017-05-12 15:41:16
+ * Last Modified: 2017-05-12 15:51:56
  */
 
 #include <iostream>
